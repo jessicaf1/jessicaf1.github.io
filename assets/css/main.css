@@ -2790,7 +2790,7 @@ input, select, textarea {
 
 	ul.contact {
 		list-style: none;
-		padding: 0;
+		padding: 30px;
 	}
 
 		ul.contact > li {
@@ -2907,7 +2907,7 @@ input, select, textarea {
 
 		.split > :nth-child(2n - 1) {
 			padding-right: 2.5em;
-			border-right: solid 1px rgba(255, 255, 255, 0.15);
+			border-left: solid 1px rgba(255, 255, 255, 0.15);
 		}
 
 		.split > :nth-child(2n) {
